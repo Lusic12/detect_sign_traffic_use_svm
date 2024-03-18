@@ -5,9 +5,7 @@ This project aims to detect traffic signs using Support Vector Machine (SVM) and
 ## Installation
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/traffic-sign-recognition.git
-    ```
+
 
 2. Install required dependencies:
     ```bash
