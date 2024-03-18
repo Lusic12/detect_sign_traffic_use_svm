@@ -76,8 +76,6 @@ while True:
         break
 
     # Display frame
-    #frame = frame[400:700, 1000:, :]  # Crop frame if needed
-    print(frame.shape)
     frame = detect(frame)
 
     # Increment frame count
