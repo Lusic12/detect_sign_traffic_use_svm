@@ -1,4 +1,4 @@
-# Biển Báo Recognition using Support Vector Machine
+# SIGN TRAFFIC Recognition using Support Vector Machine
 
 This project aims to detect traffic signs using Support Vector Machine (SVM) and color space filtering. It is designed to run on Raspberry Pi 4B with a frame size of 320x240 and a frame rate of 10 frames per second.
 
